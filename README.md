@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Solution+Engineer;Working+with+LLMs+%2B+RAG;Building+with+YOLOv11+%2B+OCR;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
-</p>
-
 <br>
 
 ## 🚀 About Me
@@ -48,14 +44,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
-<br>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeelShah-12&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 <br>
