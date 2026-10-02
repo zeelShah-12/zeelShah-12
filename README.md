@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:8250DF&height=180&section=header&text=Zeel%20Shah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Solution%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18" />
 
-<h1 align="center">Hi 👋, I'm Zeel Shah</h1>
-<h3 align="center">AI Solution Engineer @ Infinnium Infotech — building with LLMs, RAG, and Computer Vision</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/zeel-shah-454871251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:zeelvipulshah12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -12,19 +9,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Solution+Engineer;Working+with+LLMs+%2B+RAG;Building+with+YOLOv11+%2B+OCR;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+</p>
 
-### 🚀 About Me
+<br>
+
+## 🚀 About Me
 
 - 🔭 Currently working as a **Junior AI Solution Engineer** at **Infinnium Infotech** — started as an AI/ML Intern (Jan–Apr) and converted to full-time (May onward)
 - 🧠 Working with **LLMs**, **RAG (Retrieval-Augmented Generation)**, and applied computer vision
 - 🎙️ Built an **AI transcription system** using OpenAI models with a client–server architecture
 - 👁️ Building an **object + text detection system** using **YOLOv11** and OCR/ML text-detection models
+- 🌱 Currently exploring: agentic RAG pipelines, vector databases, and multimodal LLMs
 - 📫 Reach me at **zeelvipulshah12@gmail.com**
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -48,24 +50,34 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
----
+<br>
 
-### 💼 Projects
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeelShah-12&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+<br>
+
+## 💼 Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🎙️ AI Transcription System</h4>
-      <p>Speech-to-text transcription service using OpenAI models, built with a client–server architecture. Built at Infinnium Infotech (proprietary — not open-sourced).</p>
+      <p>Speech-to-text transcription service using OpenAI models, built with a client–server architecture.</p>
+      <sub>Built at Infinnium Infotech — proprietary, not open-sourced</sub>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>👁️ Object & Text Detection</h4>
-      <p>Detects objects with YOLOv11 and extracts text via an ML-based text detection model. Built at Infinnium Infotech (proprietary — not open-sourced).</p>
+      <p>Detects objects with YOLOv11 and extracts text via an ML-based text detection model.</p>
+      <sub>Built at Infinnium Infotech — proprietary, not open-sourced</sub>
     </td>
   </tr>
 </table>
 
----
+<br>
 
 <p align="center"><i>Thanks for stopping by — let's connect!</i></p>
 
