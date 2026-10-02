@@ -50,17 +50,22 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 💼 Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeelShah-12/zeelShah-12/output/github-contribution-grid-snake.svg" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎙️ AI Transcription System</h4>
+      <p>Speech-to-text transcription service using OpenAI models, built with a client–server architecture. Built at Infinnium Infotech (proprietary — not open-sourced).</p>
+    </td>
+    <td width="50%">
+      <h4>👁️ Object & Text Detection</h4>
+      <p>Detects objects with YOLOv11 and extracts text via an ML-based text detection model. Built at Infinnium Infotech (proprietary — not open-sourced).</p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeelShah-12&label=Profile%20Views&color=2F80ED&style=flat" />
-</p>
 
 <p align="center"><i>Thanks for stopping by — let's connect!</i></p>
 
